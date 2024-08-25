@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soy-Ibrag
+- 👋 Hi, I’m Ibrag
 - 👀 I’m interested in software dev
 - 🌱 I’m currently learning JavaScript & Python
 - 💞️ I’m looking to collaborate on my projects 😅
