@@ -11,7 +11,7 @@ Aspiring Web Developer with a passion for crafting sleek, responsive websites. C
 ### Achievements 🏅
 Check out my latest achievements!
 
-![Responsive Web Design](./imgs/responsive_web_design_certificate.png)
+<img src="./imgs/responsive_web_design_certificate.png" alt="Responsive Web Design" width="300"/>
 
 #### Working on the JavaScript at the moment.
 ---
